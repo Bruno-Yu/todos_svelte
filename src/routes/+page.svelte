@@ -23,7 +23,7 @@
 
 
 <script>
-   import List from './components/List.svelte';
+  import List from '../components/List.svelte';
   import { onMount } from 'svelte';
   let todoList = [];
   let input ='';
